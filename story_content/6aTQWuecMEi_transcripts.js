@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":150,"text":"Before you begin the course, "},{"start":2365,"text":"take a minute to consider what you would do in this patient intake situation."},{"start":7122,"text":"It’s a slow day at the clinic when a patient arrives with her mom. "},{"start":11120,"text":"The girl is 13 years old "},{"start":13272,"text":"and as you scan her file you see \r\nshe’s been to the clinic before for multiple STIs and abortions."},{"start":20263,"text":"Today the girl’s mom is requesting injectable birth control for her daughter. "},{"start":24717,"text":"The mom says she knows her daughter’s sexual behavior isn’t safe "},{"start":28846,"text":"but she can’t control how her daughter behaves."},{"start":31828,"text":"As you’re doing the intake, the girl is disengaged—"},{"start":35330,"text":"she’s looking away, barely saying a word, and seems to be in a trance."},{"start":40410,"text":"This situation concerns you. "}]}]};
+    window.globalLoadJsAsset('story_content/6aTQWuecMEi_transcripts.js', JSON.stringify(data));
+})();

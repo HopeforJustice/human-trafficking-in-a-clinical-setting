@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":150,"text":"When you step into the room with Alonso, "},{"start":2521,"text":"you introduce yourself through the interpreter, "},{"start":4924,"text":"explaining that you’re here to share additional information "},{"start":7981,"text":"about how to care for his hand and answer \r\nany questions he has. "},{"start":12181,"text":"As you greet him and ask how he’s feeling, "},{"start":14721,"text":"you notice he seems very nervous and his clothes are unusually dirty and worn. "},{"start":19637,"text":"You ask if anyone is in the waiting room for him. "},{"start":22765,"text":"He looks down at the floor and shakes \r\nhis head."}]}]};
+    window.globalLoadJsAsset('story_content/6NKG20bkyt3_transcripts.js', JSON.stringify(data));
+})();

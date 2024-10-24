@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":150,"text":"You’re working in the emergency room when you’re called to provide follow-up care to a male patient. "},{"start":5538,"text":"Alonso just came out of surgery on his finger, which he nearly severed in a sawing accident. "},{"start":11296,"text":"You see in the paperwork that he’s Nicaraguan and only speaks limited English. "},{"start":16251,"text":"He’s given mixed reports about how he hurt his hand "},{"start":19301,"text":"and there's a note in his file saying this could have been a work-related accident, "},{"start":23301,"text":"but the patient did not confirm this. "},{"start":25939,"text":"During treatment for his hand, a nurse noted old chemical burns on his arm."}]}]};
+    window.globalLoadJsAsset('story_content/6FlZk8s0p7J_transcripts.js', JSON.stringify(data));
+})();

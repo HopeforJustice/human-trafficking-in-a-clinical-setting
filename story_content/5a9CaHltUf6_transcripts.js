@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":150,"text":"You open the door to the waiting room and call for Ms. Jordan Brown. "},{"start":4542,"text":"You see her, head down, sitting close to an older man."},{"start":8080,"text":"She’s wearing a t-shirt and tight cut-off jean shorts, even though it’s a cold day. "},{"start":13186,"text":"She looks tired, with dark circles under her eyes. "},{"start":16158,"text":"She and the man stand up and walk toward you. "},{"start":19082,"text":"She doesn’t make eye contact with you but he introduces himself as the patient’s boyfriend, Bobby, "},{"start":24650,"text":"and wants to join for the exam. "},{"start":26887,"text":"You guide them into the exam room."}]}]};
+    window.globalLoadJsAsset('story_content/5a9CaHltUf6_transcripts.js', JSON.stringify(data));
+})();
